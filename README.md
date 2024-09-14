@@ -9,6 +9,10 @@
 In addition to technical design, this GPT offers programming assistance for automation in solar power systems. This includes helping users develop code for tracking systems, inverters, and grid connections, ensuring that the solar system operates smoothly and efficiently. It avoids overly complex language, making it accessible and easy to use, while ensuring that all solutions are accurate and practical. By guiding users through a process of multiple-choice questions and providing context-specific advice, it simplifies the complexities of solar energy system design and automation, helping users achieve sustainable energy solutions.
 
 #
+
+![Solar](https://github.com/user-attachments/assets/4fd4fa90-603d-4d93-ab08-d9132879d115)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT/tree/main)
