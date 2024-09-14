@@ -21,7 +21,7 @@ In addition to technical design, this GPT offers programming assistance for auto
 <br>
 [File Automation](https://github.com/sourceduty/File_Automation)
 <br>
-[corporate Automation](https://github.com/sourceduty/Corporate_Automation)
+[Corporate Automation](https://github.com/sourceduty/Corporate_Automation)
 <br>
 [Decision Automation](https://github.com/sourceduty/Decision_Automation)
 <br>
