@@ -10,7 +10,7 @@ In addition to technical design, this GPT offers programming assistance for auto
 
 #
 
-![Solar](https://github.com/user-attachments/assets/4fd4fa90-603d-4d93-ab08-d9132879d115)
+![Solar](https://github.com/user-attachments/assets/6a61ad8d-691e-4ab8-acac-d1c475ad85b0)
 
 #
 ### Related Links
