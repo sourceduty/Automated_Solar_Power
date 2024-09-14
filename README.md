@@ -12,6 +12,20 @@ In addition to technical design, this GPT offers programming assistance for auto
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT/tree/main)
+<br>
+[Automated Locations](https://github.com/sourceduty/Automated_Locations)
+<br>
+[Business Automation](https://github.com/sourceduty/Business_Automation)
+<br>
+[Benchmark Automation](https://github.com/sourceduty/Benchmark_Automation)
+<br>
+[File Automation](https://github.com/sourceduty/File_Automation)
+<br>
+[corporate Automation](https://github.com/sourceduty/Corporate_Automation)
+<br>
+[Decision Automation](https://github.com/sourceduty/Decision_Automation)
+<br>
+[Automation Sim](https://github.com/sourceduty/Automation_Sim)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
